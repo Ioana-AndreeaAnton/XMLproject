@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+<date><id>2</id><nume>Lavinia</nume><image>./images/a9705c919a69c40202a18b103591c5d9team5.jpg</image><view>view.php?id=2</view><edit>edit.php?id=2</edit><delete>delete.php?id=2</delete><confirm>return confirm("Are you sure you want to delete this item?")</confirm><back>user.php</back></date></root>
